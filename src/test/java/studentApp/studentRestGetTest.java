@@ -1,7 +1,7 @@
 package studentApp;
 
 import org.junit.Test;
-import pages.BaseTest;
+import helpers.BaseTest;
 
 import static io.restassured.RestAssured.given;
 
